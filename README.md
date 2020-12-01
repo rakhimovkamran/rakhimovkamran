@@ -38,8 +38,7 @@ Self-taught **Software Engineer** 👨🏻‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/safarmurod-safarov-085496160/)](https://www.linkedin.com/in/rakhimovkamran/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/code_storm/)](https://instagram.com/rakhimovkamran/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@safarslife/)](https://medium.com/@safarslife)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:safarov7safar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:safarov7safar@gmail.com)](mailto:rakhimovkamran@gmail.com)
 
 <p>If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓</p>
 
