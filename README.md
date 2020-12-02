@@ -1,18 +1,18 @@
 # Hey, you are on Kamran's page 👋
 
 Nice to meet you here ! My name is **Kamran**, but you can call me **Kam**. **I'm self-taught 18 y.o Software Engineer**.
-I'm interested in building **cross-platform applications** with the beautiful **user-interface**. Also I'm coffee lover and I love travel around the world too !
+I'm interested in building **cross-platform applications** with the beautiful **user-interface** and **user-experience**. Also I'm coffee lover and I love travel around the world too !
 You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
-## 💁 What makes stay busy every single day
-- 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning UI Design and QA Engineering
-- 👯 I’m looking to collaborate on React.js
-- 🤔 I’m looking for help with QA Engineering
-- 💬 Ask me about React.js and Front-End Stuff
-- 📫 How to reach me: rakhimovkamran on every platform
-- 😄 Pronouns: Kam
-- ⚡ Fun fact: You don't need diploma for your life
+## 💁 Answers to frequently asked questions
+- 🔭 I’m currently working on my **own projects**
+- 🌱 I’m currently learning **UI Design** and **QA Engineering**
+- 👯 I’m looking to collaborate on **React.js**
+- 🤔 I’m looking for help with **QA Engineering**
+- 💬 Ask me about **React.js** and **Front-End Technologies**
+- 📫 How to reach me: **rakhimovkamran** on every platform
+- 😄 Pronouns: **he / him**
+- ⚡ Fun fact: **You don't need diploma for your life**
 
 ## 💁 Technologies I Use
 
