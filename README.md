@@ -69,6 +69,18 @@ Self-taught **Software Engineer** 👨🏻‍💻
 
 ## 💁 Social Accounts
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rakhimovkamran@gmail.com)](mailto:rakhimovkamran@gmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/rakhimovkamran/)](https://www.twitter.com/rakhimovkamran/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rakhimovkamran/)](https://instagram.com/rakhimovkamran/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhimovkamran/)](https://www.linkedin.com/in/rakhimovkamran/)
+
+[![Codepen Badge](https://img.shields.io/badge/-Codepen-gray?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/rakhimovkamran)](https://codepen.io/rakhimovkamran/)
 
 
-<p>If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓</p>
+
+
+
+## 🙏 If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓
