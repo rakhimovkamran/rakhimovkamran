@@ -1,6 +1,8 @@
 # 👋 Hey, you are on Rakhimov Kamran's page 
 
-Self-taught **Software Engineer** 👨🏻‍💻
+Nice to meet you here ! My name is Kamran, but you can call me Kam. I'm self-taught 18 y.o Software Engineer.
+I'm interested in building cross-platform applications with the beautiful user-interface. Also I'm coffee lover and I love travel around the world too !
+You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
 ## 💁 What makes stay busy every single day
 - 🔭 I’m currently working on my own projects
@@ -83,4 +85,4 @@ Self-taught **Software Engineer** 👨🏻‍💻
 
 
 
-## 🙏 If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓
+#### 🙏 If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓
