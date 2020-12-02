@@ -1,8 +1,8 @@
-# Hey, you are on Rakhimov Kamran's page 👋 
+# 👋 Hey, you are on Rakhimov Kamran's page 
 
 Self-taught **Software Engineer** 👨🏻‍💻
 
-### What makes stay busy every single day:
+## 💁 What makes stay busy every single day
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning UI Design and QA Engineering
 - 👯 I’m looking to collaborate on React.js
@@ -12,7 +12,7 @@ Self-taught **Software Engineer** 👨🏻‍💻
 - 😄 Pronouns: Kam
 - ⚡ Fun fact: You don't need diploma for your life
 
-## Technologies I Use
+## 💁 Technologies I Use
 
 #### 🌍 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -66,6 +66,8 @@ Self-taught **Software Engineer** 👨🏻‍💻
 ![Gulp](https://img.shields.io/badge/-Gulp.js-222222?style=for-the-badge&logo=gulp)
 ![ESLint](https://img.shields.io/badge/-ESLint-222222?style=for-the-badge&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-222222?style=for-the-badge&logo=prettier)
+
+## 💁 Social Accounts
 
 
 
