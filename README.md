@@ -1,4 +1,4 @@
-### Hey, you are on Rakhimov Kamran's page 👋 
+# Hey, you are on Rakhimov Kamran's page 👋 
 
 Self-taught **Software Engineer** 👨🏻‍💻
 
@@ -44,11 +44,18 @@ Self-taught **Software Engineer** 👨🏻‍💻
 #### Desktop and Mobile Apps Development 📱
 ![ReactNative](https://img.shields.io/badge/-React%20Native-darkblue?style=for-the-badge&logo=react&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/-Electron.js-orange?style=for-the-badge&logo=electron&logoColor=white)
-![NW.JS](https://img.shields.io/badge/-NW.JS-orange?style=for-the-badge&logo=nw.js&logoColor=white)
+![NW.JS](https://img.shields.io/badge/-NW.JS-orange?style=for-the-badge&logo=node-webkit-js&logoColor=white)
+
+#### UI Development 🖌
+![Figma](https://img.shields.io/badge/-Figma-darkblue?style=for-the-badge&logo=figma&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-orange?style=for-the-badge&logo=adobe&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-orange?style=for-the-badge&logo=sketch&logoColor=white)
+![InVision](https://img.shields.io/badge/-InVision-orange?style=for-the-badge&logo=invision&logoColor=white)
 
 
 #### Tools & Services 🛠
 ![VSCode](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visual-studio-code)
+![XCode](https://img.shields.io/badge/-XCode-222222?style=for-the-badge&logo=xcode&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
