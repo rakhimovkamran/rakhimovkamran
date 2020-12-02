@@ -1,4 +1,4 @@
-# 👋 Hey, you are on Rakhimov Kamran's page 
+# Hey, you are on Rakhimov Kamran's page 👋
 
 Nice to meet you here ! My name is **Kamran**, but you can call me **Kam**. **I'm self-taught 18 y.o Software Engineer**.
 I'm interested in building **cross-platform applications** with the beautiful **user-interface**. Also I'm coffee lover and I love travel around the world too !
