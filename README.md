@@ -56,16 +56,16 @@ You can explore my projects here, and put a star on the project that you like. H
 
 
 #### 🛠 Tools & Services
-![VSCode](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visual-studio-code)
-![XCode](https://img.shields.io/badge/-XCode-222222?style=for-the-badge&logo=xcode&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-1dabf2?style=for-the-badge&logo=visual-studio-code)
+![XCode](https://img.shields.io/badge/-XCode-2f36ed?style=for-the-badge&logo=xcode&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-10bccc?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-eb5721?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Bash](https://img.shields.io/badge/-Bash-181717?style=for-the-badge&logo=bash)
-![WebPack](https://img.shields.io/badge/-WebPack-333333?style=for-the-badge&logo=webpack)
-![Parcel](https://img.shields.io/badge/-Parcel.js-red?style=for-the-badge&logo=parceljs)
-![Gulp](https://img.shields.io/badge/-Gulp.js-222222?style=for-the-badge&logo=gulp)
+![WebPack](https://img.shields.io/badge/-WebPack-49849e?style=for-the-badge&logo=webpack&logoColor=white)
+![Parcel](https://img.shields.io/badge/-Parcel.js-blue?style=for-the-badge&logo=parceljs)
+![Gulp](https://img.shields.io/badge/-Gulp.js-d63636?style=for-the-badge&logo=gulp&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-222222?style=for-the-badge&logo=eslint)
 ![Prettier](https://img.shields.io/badge/-Prettier-222222?style=for-the-badge&logo=prettier)
 
