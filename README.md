@@ -3,7 +3,6 @@
 Self-taught **Software Engineer** 👨🏻‍💻
 
 ### What makes stay busy every single day:
-<hr/>
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning UI Design and QA Engineering
 - 👯 I’m looking to collaborate on React.js
