@@ -12,16 +12,16 @@ Self-taught **Software Engineer** 👨🏻‍💻
 - 😄 Pronouns: Kam
 - ⚡ Fun fact: You don't need diploma for your life
 
-### Technologies:
+## Technologies I Use:
 <hr/>
 
-##### Languages 🌍
+#### Languages 🌍
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Python 3](https://img.shields.io/badge/-Python%203-orange?style=for-the-badge&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift%20(%20learning%20)-red?style=for-the-badge&logo=swift&logoColor=white)
 
-##### Front-End Development 🎨
+#### Front-End Development 🎨
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Pug](https://img.shields.io/badge/-Pug-E34F26?style=for-the-badge&logo=pug)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -31,7 +31,7 @@ Self-taught **Software Engineer** 👨🏻‍💻
 ![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 
-##### Back-End Development 👷🏻‍♂️
+#### Back-End Development 👷🏻‍♂️
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express-js)
 ![Koajs](https://img.shields.io/badge/-Koa.js-red?style=for-the-badge&logo=koajs)
@@ -42,13 +42,13 @@ Self-taught **Software Engineer** 👨🏻‍💻
 ![Next.js](https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js)
 ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-311C87?style=for-the-badge&logo=gatsby)
 
-##### Desktop and Mobile Apps Development 📱
+#### Desktop and Mobile Apps Development 📱
 ![ReactNative](https://img.shields.io/badge/-React%20Native-darkblue?style=for-the-badge&logo=react&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/-Electron.js-orange?style=for-the-badge&logo=electron&logoColor=white)
 ![NW.JS](https://img.shields.io/badge/-NW.JS-orange?style=for-the-badge&logo=nw.js&logoColor=white)
 
 
-##### Tools & Services 🛠
+#### Tools & Services 🛠
 ![VSCode](https://img.shields.io/badge/-VSCode-222222?style=for-the-badge&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
