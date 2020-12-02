@@ -31,29 +31,34 @@ Self-taught **Software Engineer** 👨🏻‍💻
 ![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ##### Back-End Development
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
-![Next.js](https://img.shields.io/badge/-Next.js-blue?style=flat-square&logo=next.js)
-![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-311C87?style=flat-square&logo=gatsby)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express.js-blue?style=for-the-badge&logo=express-js)
+![Koajs](https://img.shields.io/badge/-Koa.js-red?style=for-the-badge&logo=koajs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io)
+![Next.js](https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js)
+![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-311C87?style=for-the-badge&logo=gatsby)
+
+##### Desktop and Mobile Apps Development
+![ReactNative](https://img.shields.io/badge/-React%20Native-darkblue?style=for-the-badge&logo=react&logoColor=white)
+![Electron.js](https://img.shields.io/badge/-Electron.js-orange?style=for-the-badge&logo=electron&logoColor=white)
+![NW.JS](https://img.shields.io/badge/-NW.JS-orange?style=for-the-badge&logo=nw.js&logoColor=white)
 
 
-![WebPack](https://img.shields.io/badge/-WebPack-333333?style=flat-square&logo=webpack)
-![Parcel](https://img.shields.io/badge/-Parcel.js-red?style=flat-square&logo=parceljs)
-![Gulp](https://img.shields.io/badge/-Gulp.js-222222?style=flat-square&logo=gulp)
+##### Tools & Services
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Bash](https://img.shields.io/badge/-Bash-181717?style=for-the-badge&logo=bash)
+![WebPack](https://img.shields.io/badge/-WebPack-333333?style=for-the-badge&logo=webpack)
+![Parcel](https://img.shields.io/badge/-Parcel.js-red?style=for-the-badge&logo=parceljs)
+![Gulp](https://img.shields.io/badge/-Gulp.js-222222?style=for-the-badge&logo=gulp)
 
 
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
-
-
-
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ### Social Media:
 
