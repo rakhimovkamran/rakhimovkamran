@@ -14,14 +14,42 @@ Self-taught **Software Engineer** 👨🏻‍💻
 
 ### Technologies:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+##### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
+![Python 3](https://img.shields.io/badge/-Python%203-orange?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift%20(%20learning%20)-red?style=for-the-badge&logo=swift&logoColor=white)
+
+##### Front-End Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Pug](https://img.shields.io/badge/-Pug-E34F26?style=for-the-badge&logo=pug)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-black?style=for-the-badge&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![LESS](https://img.shields.io/badge/-LESS-blue?style=for-the-badge&logo=less)
+![React](https://img.shields.io/badge/-React-darkblue?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-darkgreen?style=for-the-badge&logo=vue.js&logoColor=white)
+
+##### Back-End Development
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Expressjs](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Next.js](https://img.shields.io/badge/-Next.js-blue?style=flat-square&logo=next.js)
+![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-311C87?style=flat-square&logo=gatsby)
+
+
+![WebPack](https://img.shields.io/badge/-WebPack-333333?style=flat-square&logo=webpack)
+![Parcel](https://img.shields.io/badge/-Parcel.js-red?style=flat-square&logo=parceljs)
+![Gulp](https://img.shields.io/badge/-Gulp.js-222222?style=flat-square&logo=gulp)
+
+
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+
+
+
+
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
