@@ -12,8 +12,7 @@ Self-taught **Software Engineer** 👨🏻‍💻
 - 😄 Pronouns: Kam
 - ⚡ Fun fact: You don't need diploma for your life
 
-## Technologies I Use:
-<hr/>
+## Technologies I Use
 
 #### Languages 🌍
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
