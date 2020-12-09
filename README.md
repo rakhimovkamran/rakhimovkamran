@@ -1,6 +1,6 @@
 # Hey, you are on Kamran's page 👋
 
-Nice to meet you here ! My name is **Kamran**, but you can call me **Kam**. **I'm self-taught 18 y.o Software Engineer**.
+Nice to meet you here ! My name is **Kamran**, but you can call me **Kam**. **I'm self-taught Software Engineer**.
 I'm interested in building **cross-platform applications** with the beautiful **user-interface** and **user-experience**. Also I'm coffee lover and I love travel around the world too !
 You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
