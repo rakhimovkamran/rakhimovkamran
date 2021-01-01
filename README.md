@@ -11,7 +11,6 @@ You can explore my projects here, and put a star on the project that you like. H
 - 🤔 I’m looking for help with **QA Engineering**
 - 💬 Ask me about **React.js** and **Front-End Technologies**
 - 📫 How to reach me: **rakhimovkamran** on every platform
-- 😄 Pronouns: **he / him**
 - ⚡ Fun fact: **You don't need diploma for your life**
 
 ## 💁 Technologies I Use
