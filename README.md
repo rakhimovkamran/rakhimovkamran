@@ -80,4 +80,4 @@ You can explore my projects here, and put a star on the project that you like. H
 
 
 
-##[My Resume](https://drive.google.com/file/d/1Tc0BnYaDnAr6IxCfyIEIz62IMYoNaTDj/view?usp=sharing)
+[My Resume 📜](https://drive.google.com/file/d/1Tc0BnYaDnAr6IxCfyIEIz62IMYoNaTDj/view?usp=sharing)
