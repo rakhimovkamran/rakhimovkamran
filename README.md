@@ -4,6 +4,8 @@ Nice to meet you here ! My name is **Kamran**, but you can call me **Kam**. **I'
 I'm interested in building **cross-platform applications** with the beautiful **user-interface** and **user-experience**. Also I'm coffee lover and I love travel around the world too !
 You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
+[Link to my CV 📜](https://drive.google.com/file/d/1Tc0BnYaDnAr6IxCfyIEIz62IMYoNaTDj/view?usp=sharing)
+
 ## 💁 Answers to frequently asked questions
 - 🔭 I’m currently working on my **own projects**
 - 🌱 I’m currently learning **UI Design** and **QA Engineering**
@@ -75,9 +77,3 @@ You can explore my projects here, and put a star on the project that you like. H
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/rakhimovkamran/)](https://instagram.com/rakhimovkamran/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rakhimovkamran/)](https://www.linkedin.com/in/rakhimovkamran/)
 [![Codepen Badge](https://img.shields.io/badge/-Codepen-gray?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/rakhimovkamran)](https://codepen.io/rakhimovkamran/)
-
-
-
-
-
-[My Resume 📜](https://drive.google.com/file/d/1Tc0BnYaDnAr6IxCfyIEIz62IMYoNaTDj/view?usp=sharing)
