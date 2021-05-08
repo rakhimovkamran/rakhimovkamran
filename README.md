@@ -80,4 +80,4 @@ You can explore my projects here, and put a star on the project that you like. H
 
 
 
-#### 🙏 If it's not difficult for you then put ⭐ in my repository, because your star can motivate me to do cool things 🤓
+##[My Resume](https://drive.google.com/file/d/1Tc0BnYaDnAr6IxCfyIEIz62IMYoNaTDj/view?usp=sharing)
