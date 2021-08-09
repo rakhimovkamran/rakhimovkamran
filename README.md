@@ -20,6 +20,9 @@ You can explore my projects here, and put a star on the project that you like. H
 
 ## 💁 Technologies I Use
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alekspopovic)
+
+
 #### 🌍 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript)
