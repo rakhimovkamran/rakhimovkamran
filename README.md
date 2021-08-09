@@ -15,6 +15,9 @@ You can explore my projects here, and put a star on the project that you like. H
 - 📫 How to reach me: **rakhimovkamran** on every platform
 - ⚡ Fun fact: **You don't need diploma for your life**
 
+![github stats](https://github-readme-stats.vercel.app/api?username=rakhimovkamran)
+
+
 ## 💁 Technologies I Use
 
 #### 🌍 Languages
