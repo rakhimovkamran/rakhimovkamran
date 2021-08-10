@@ -1,7 +1,8 @@
 # Hey, you are on Kamran's page 👋
 
 Nice to meet you here ! My name is **Kamran**. **I'm self-taught Software Engineer**.
-I'm interested in building **cross-platform applications** with the beautiful **user-interface** and **user-experience**. Also I'm coffee lover and I love travel around the world too !
+
+A Front-End Engineer who cares about **User Experience / Interface** and Application **Accessibility**. Continuously learns new technologies and uses them in practice. I am looking for interesting people and sharing my experience with them.
 You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
 [📜 Link to my CV](https://drive.google.com/file/d/10o1qtff8K39SehfTISIXqplwfRGRq9ab/view?usp=sharing)
