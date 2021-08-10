@@ -9,12 +9,12 @@ You can explore my projects here, and put a star on the project that you like. H
 
 ## 💁 Answers to frequently asked questions
 - 🔭 I’m currently working on my **own projects**
-- 🌱 I’m currently learning **UI Design** and **QA Engineering**
+- 🌱 I’m currently learning **Front-End Engineering** and **User Interface Optimization**
 - 👯 I’m looking to collaborate on **React.js**
-- 🤔 I’m looking for help with **QA Engineering**
+- 🤔 I’m looking for help with **React, TypeScript and JavaScript**
 - 💬 Ask me about **React.js** and **Front-End Technologies**
 - 📫 How to reach me: **rakhimovkamran** on every platform
-- ⚡ Fun fact: **You don't need diploma for your life**
+- ⚡ Fun fact: **Who thinks he knows, he knows nothing as well as he should know**
 
 
 ## 💁 Technologies I Use
