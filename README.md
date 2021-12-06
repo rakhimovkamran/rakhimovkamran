@@ -27,12 +27,6 @@ You can explore my projects here, and put a star on the project that you like. H
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Next.js](https://img.shields.io/badge/-Next.js-blue?style=for-the-badge&logo=next.js)
 ![Gatsby.js](https://img.shields.io/badge/-Gatsby.js-311C87?style=for-the-badge&logo=gatsby)
-
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-a12358?style=for-the-badge&logo=sass&logoColor=white)
-![LESS](https://img.shields.io/badge/-LESS-blue?style=for-the-badge&logo=less)
-
-#### 📱 Desktop and Mobile Apps Development
 ![ReactNative](https://img.shields.io/badge/-React%20Native-49a8e3?style=for-the-badge&logo=react&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/-Electron.js-0091ff?style=for-the-badge&logo=electron&logoColor=white)
 
