@@ -2,7 +2,7 @@
 
 Nice to meet you here ! My name is **Kamran**. **I'm self-taught Software Engineer**.
 
-A Front-End Engineer who cares about **User Experience / Interface** and Application **Accessibility**. Continuously learns new technologies and uses them in practice. I am looking for interesting people and sharing my experience with them.
+A Front-End Engineer who cares about **User Experience / Interface** and Application **Accessibility**. Continuously learns new technologies and uses them in practice. I'm looking for interesting people and sharing my experience with them.
 You can explore my projects here, and put a star on the project that you like. Have a nice day !
 
 [📜 Link to my CV](https://drive.google.com/file/d/16mqQfCTOQcs5H_gADnktLfWMblg4MPKB/view?usp=sharing)
