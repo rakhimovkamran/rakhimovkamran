@@ -9,9 +9,9 @@ You can explore my projects here, and put a star on the project that you like. H
 
 ## 💁 Answers to frequently asked questions
 - 🔭 I’m currently working on my **own projects**
-- 🌱 I’m currently learning **Front-End Engineering** and **User Interface Optimization**
+- 🌱 I’m currently learning **FullStack Engineering** and **UI/UX Design**
 - 👯 I’m looking to collaborate on **React.js**
-- 🤔 I’m looking for help with **React, TypeScript and JavaScript**
+- 🤔 I’m looking for help with **Backend Development**
 - 💬 Ask me about **React.js** and **Front-End Technologies**
 - 📫 How to reach me: **rakhimovkamran** on every platform
 - ⚡ Fun fact: **Who thinks he knows, he knows nothing as well as he should know**
