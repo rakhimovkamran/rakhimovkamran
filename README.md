@@ -6,8 +6,6 @@ Creating elegant and user-friendly UIs for my projects isn't just a task; it's a
 
 Feel free to explore my work, and let's connect if you find something that piques your interest. Together, let's make the digital world a bit more beautiful, one project at a time.
 
-[📜 View My Resume](https://drive.google.com/file/d/1p8e_eZDVOjQyg6U-UuK3xSOxqT81K-oK/view?usp=sharing)
-
 ## 🙋 A Little More About Me
 - 🔭 I'm currently channeling my energy into **personal projects** that challenge me to push the boundaries of web development.
 - 🌱 My learning journey is ongoing in **Full-Stack Development** with a keen interest in enhancing my **UI/UX Design** skills.
